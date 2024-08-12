@@ -33,7 +33,7 @@ addElement("varString =  " + isVarBoolean.toString() + " = " + typeof (isVarBool
 addElement(`varNull = ${varNull} = ${typeof (varNull)}`);
 addElement(`varUndefined = ${varUndefined} = ${typeof (varUndefined)}`);
 addElement(`varSymbol = ${varSymbol.description} = ${typeof (varSymbol)}`);
-addElement(`varSymbol = ${varBigInt} = ${typeof (varBigInt)}`);
+addElement(`varBigInt = ${varBigInt} = ${typeof (varBigInt)}`);
 
 // 2. Create three strings using single quotes, double quotes, and backticks. 
 // Use string methods to convert one of the strings to uppercase, another to lowercase, and check if the third contains a specific substring.
