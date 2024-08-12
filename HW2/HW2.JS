@@ -83,8 +83,8 @@ console.log(`Book: title = ${book['title']}, author = ${book['author']}, year = 
 addElement(`Book: title = ${book.title}, author = ${book.author}, year = ${book.year}`);
 
 // 5. Create an array of five numbers, add a number to the end, remove the first number, and print the modified array.
-console.warn('Task - 4');
-addElement("Task - 4");
+console.warn('Task - 5');
+addElement("Task - 5");
 
 let arrayOfNumber = [1, 3, 5, 7, 9];
 console.log(arrayOfNumber);
